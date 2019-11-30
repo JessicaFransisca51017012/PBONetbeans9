@@ -1,0 +1,4 @@
+nama sayaJessica
+ alamat saya tinggalJln. Sunu
+ dengan pekerjaanPNS
+ jenis kelamin sayaPerempuan
